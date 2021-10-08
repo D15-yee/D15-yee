@@ -1,5 +1,5 @@
 # Pepper-Mapping and Navigation
-Code for mapping and autonomous navigation module in this paper.
+I am responsible for the code of the map and autonomous navigation module in this article.
 ## Environment
 -python 2.7
 
